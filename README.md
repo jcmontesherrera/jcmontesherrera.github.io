@@ -1,5 +1,5 @@
 # JCMontesHerrera
-Welcome to my Github page / Bienvenid@ a mi pagina de Github
+Welcome to my Github page / Bienvenid@ a mi pagina de Github 👋
 
 ## Current projects
 - Acquisition of structural complexity metrics from Antarctic benthic communities with underwater photogrammetry 🐚
