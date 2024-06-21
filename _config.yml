@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jcmontesherrera"
+title                    : "Juan C. Montes-Herrera"
 title_separator          : "-"
-name                     : &name "Juan Carlos"
-description              : &description "Marine Biologist"
+name                     : &name "J.C. Montes-Herrera"
+description              : &description "Ph.D. Marine Biologist / Post-Doctoral Research Fellow"
 url                      : https://jcmontesherrera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcmontesherrera/jcmontesherrera.github.io"
@@ -72,15 +72,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan C. Montes-Herrera"
+  name             : "Dr. Juan C. Montes-Herrera"
   avatar           : "JCMH-crop-profile.JPG"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Marine Biologist and Post-Doctoral Research Fellow"
+  location         : "Hobart, Tasmania, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=CPxoSBsAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Juan-Montes-Herrera"
   uri              :
   bitbucket        :
   codepen          :
@@ -88,20 +88,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/jcmontesherrera"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/jcmontesherrera"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jcmontesh/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  soundcloud       : "https://soundcloud.com/jcmontesherrera"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "JCMontesHerrera"
+  twitter          : "https://x.com/JCMontesHerrera"
   vine             :
   weibo            :
   xing             :
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Hobart # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
